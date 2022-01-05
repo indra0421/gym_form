@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gym_form/static/css/main.2b9ed48d.chunk.css",
+    "main.js": "/gym_form/static/js/main.c1620636.chunk.js",
+    "main.js.map": "/gym_form/static/js/main.c1620636.chunk.js.map",
+    "runtime-main.js": "/gym_form/static/js/runtime-main.328309b9.js",
+    "runtime-main.js.map": "/gym_form/static/js/runtime-main.328309b9.js.map",
+    "static/css/2.d8cb5cde.chunk.css": "/gym_form/static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.7649a1f0.chunk.js": "/gym_form/static/js/2.7649a1f0.chunk.js",
+    "static/js/2.7649a1f0.chunk.js.map": "/gym_form/static/js/2.7649a1f0.chunk.js.map",
+    "index.html": "/gym_form/index.html",
+    "static/css/2.d8cb5cde.chunk.css.map": "/gym_form/static/css/2.d8cb5cde.chunk.css.map",
+    "static/css/main.2b9ed48d.chunk.css.map": "/gym_form/static/css/main.2b9ed48d.chunk.css.map",
+    "static/js/2.7649a1f0.chunk.js.LICENSE.txt": "/gym_form/static/js/2.7649a1f0.chunk.js.LICENSE.txt",
+    "static/media/gym.680fd2b6.jpg": "/gym_form/static/media/gym.680fd2b6.jpg",
+    "static/media/logo.6ce24c58.svg": "/gym_form/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.328309b9.js",
+    "static/css/2.d8cb5cde.chunk.css",
+    "static/js/2.7649a1f0.chunk.js",
+    "static/css/main.2b9ed48d.chunk.css",
+    "static/js/main.c1620636.chunk.js"
+  ]
+}
