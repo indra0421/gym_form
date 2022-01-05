@@ -1,0 +1,152 @@
+.header{
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+  position: sticky;
+  top: 0;
+}
+
+body {
+  font-family: 'Baloo Bhai 2', cursive;
+  color: white;
+  margin: 0px;
+  padding: 0px;
+  background-image: url('https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2017/07/iStock-636887598.jpg');
+  background-repeat: no-repeat;
+  background-size: cover; 
+  }
+
+.left {
+  display: inline-block;
+  position: absolute;
+  left: 1px;
+  top: -2px;
+  width: 185px;
+  padding-left: 17px;
+}
+
+.left img {
+  width: 106px;
+  color: white;
+  filter: invert(100%);
+  text-align: center;
+  padding-left: 29px;
+}
+
+.left div {
+  text-align: center;
+  padding-right: 23px;
+  font-size: 24px;
+}
+
+.mid {
+   display: block;
+  width: 47%;
+  margin: 20px auto;
+}
+
+.right {
+  display: flex;
+  display: block;
+  position: absolute;
+  top: 15px;
+  right: 5px;
+}
+
+.navbar {
+  display: inline-block;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.navbar li {
+  display: inline-block;
+}
+
+.navbar li a {
+  color: white;
+  text-decoration: none;
+  padding: 33px 23px;
+
+}
+
+
+  
+
+
+.btn {
+  margin: 0px 9px;
+  color: white;
+  background-color: black;
+  padding: 4px 14px;
+  border: 2px solid grey;
+  border-radius: 10px;
+  font-size: 15px;
+  cursor: pointer;
+  font-family: 'Baloo Bhai 2', cursive;
+}
+
+.btn:hover {
+  background-color: rgb(87, 83, 83);
+}
+
+.container {
+    margin: 161px 111px;
+  padding: 47px 54px;
+  width: 36%;
+  border-radius: 12px;
+}
+
+.form-group input {
+  font-family: 'Baloo Bhai 2', cursive;
+  text-align: center;
+  display: block;
+  width: 382px;
+  padding: 7px;
+  border: 2px solid red;
+  margin: 10px auto;
+  font-size: 17px;
+  border-radius: 7px;
+  font-weight: 600;
+}
+
+.container button {
+  display: block;
+  width: 85%;
+  margin: 25px auto;
+}
+
+h1{
+  text-align: center;
+}
+.active{
+  color: aquamarine;
+}
+
+.navbar p{
+  
+}
+.menu_list_all{
+  display: none;
+}
+
+@media(max-width:900px) {
+  .mid{
+    display: none;
+  }
+  .menu_list_all{
+    display: block;
+  }
+  .right{
+    position: absolute;
+    right: 17px;
+    display: flex;
+  }
+  .menu_list_all{
+    border-radius: 10px;
+    background-color: black;
+    color:white;
+    width: auto;
+    align-items: center;
+  }
+}
